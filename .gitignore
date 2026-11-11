@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/*.csv
+!data/README.txt
+models/*.joblib
+outputs/*.png
+outputs/*.csv
+outputs/*.json
